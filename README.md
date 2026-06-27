@@ -57,8 +57,6 @@ MWG, FRT, DGW, PNJ, MSN, VNM, SAB, SBT, QNS, DBC, VHC, ANV, DHG, IMP, TRA
 |------|-------|
 | `GS/` | Google Apps Script (9 files) |
 | `lib/` | Các module xử lý dữ liệu |
-| `data/` | Báo cáo và dữ liệu đầu ra |
-| `log/` | Nhật ký chương trình |
 
 ## Triển khai Google Apps Script
 
